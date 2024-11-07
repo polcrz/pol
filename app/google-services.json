@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266930046622",
+    "project_id": "login-register-9c449",
+    "storage_bucket": "login-register-9c449.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266930046622:android:964092f7701b65eecadd8f",
+        "android_client_info": {
+          "package_name": "com.example.salesinventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXoZkwrJEWrqnAluXCe1zX33vgPFYI1F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
